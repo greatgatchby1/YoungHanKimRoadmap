@@ -1,6 +1,7 @@
 # 📚 김영한의 로드맵
 - version KH.Joon
-
+- second version k.hj start
+i
 
 ## 🍀우아한형제들 최연소 기술이사 김영한의 스프링 완전 정복
 
